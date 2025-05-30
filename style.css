@@ -1,0 +1,65 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+nav{
+    display: flex;
+    gap: 70px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #FF6838;
+}
+header button{
+    width: 120px;
+    height: 50px;
+    background-color: #FF7A50;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box div{
+    width: 35%;
+}
+.box h1{
+    font-size: 66px;
+}
+.box button{
+    width: 163px;
+    height: 50px;
+    background-color: #FF7A50;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+h1{
+    font-size: 66px;
+}
+span{
+    color: #FF7A50;
+}
+.card{
+    display: flex;
+    align-items: center;
+}
+.card button{
+    width: 77px;
+    height: 33px;
+    background-color: #FF7A50;
+    border: none;
+    border-radius: 15px;
+    border-bottom-right-radius: 0px;
+}
+.zokir{
+    display: flex;
+}
